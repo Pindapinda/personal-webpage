@@ -42,8 +42,6 @@ highlight_name: true
 title: Stefan Driessen
 email: ""
 ---
-Stefan Driessen is going to write something here.
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Stefan Driessen is a Ph.D. Candidate at the JADE Lab of the Jheronimus Academy of Data Science. His research interests include blockchain technology, data markets, data products and data meshes. On a daily basis, Stefan works on Data Engineering methods and techniques for sharing and exchanging data in a distributed and decentral manner.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
