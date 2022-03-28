@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Jheronimus Academy of Data Science
+    url: https:///www.jads.nl
 education:
   courses:
     - course: PhD in Artificial Intelligence
