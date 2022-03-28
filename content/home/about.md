@@ -8,6 +8,6 @@ weight: 20
 title: Biography
 design:
   background:
-    image: pasfoto.jpg
+    image: ""
 ---
 This is a test body
