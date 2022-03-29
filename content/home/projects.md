@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 widget_id: Projects
-weight: 65
+weight: 30
 title: Projects
 subtitle: ""
 active: true
