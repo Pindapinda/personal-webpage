@@ -19,6 +19,12 @@ social:
     icon_pack: fas
     link: https://scholar.google.nl/citations?user=7YZiTjMAAAAJ&hl=nl&oi=sra
     label: My papers on google scholar
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-0523-1436
+    icon_pack: ai
+    icon: orcid
+    label: My orcID
   - icon: github
     icon_pack: fab
     link: https://github.com/Pindapinda/
