@@ -25,21 +25,22 @@ social:
     label: My Github page
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/stefan-driessen93/
+    label: My Linkedin page
 organizations:
   - name: Jheronimus Academy of Data Science
     url: https:///www.jads.nl
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Data Science & Entrepreneurship
+      institution: Jheronimus Academy of Data Science
+      year: 2019
+    - course: BSc in Physics & Astronomy
+      institution: Radboud University
+      year: 2017
+    - course: BSc in Mathematics
+      institution: Radboud University Nijmegen
+      year: 2017
 superuser: true
 highlight_name: true
 title: Stefan Driessen
