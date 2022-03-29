@@ -9,6 +9,4 @@ title: Biography
 design:
   background:
     image: ""
-    color: ""
 ---
-This is a test body
