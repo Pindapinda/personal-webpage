@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Candidate at JADS
-avatar_filename: pasfoto.png
+avatar_filename: avatar.png
 bio: My research interests include blockchain technology, data markets and data
   meshes.
 interests:
