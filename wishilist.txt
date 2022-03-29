@@ -1,0 +1,19 @@
+----- Desired Sections -----
+Biography --- https://academic-demo.netlify.app/
+  Foto
+  Mail, linkedin, JADS-pagina, github links
+  Download my resume?
+
+Overzicht met current projects???
+
+Featured publications --- https://academic-demo.netlify.app/
+  Mijn meest recente met plaatje?
+
+Recent publications ---  https://academic-demo.netlify.app/
+  Met Pdf, cite en code knoppen?
+
+Contact --- https://academic-demo.netlify.app/
+  Formulier
+  email, phone, locatie, kaartje
+
+Teaching??? --- https://felipeebert.github.io/
