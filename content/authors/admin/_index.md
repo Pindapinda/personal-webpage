@@ -42,6 +42,6 @@ highlight_name: true
 title: Stefan Driessen
 email: ""
 ---
-Stefan Driessen is a Ph.D. Candidate at the JADE Lab of the Jheronimus Academy of Data Science. His research interests include blockchain technology, data markets, data products and data meshes. On a daily basis, Stefan works on Data Engineering methods and techniques for sharing and exchanging data in a distributed and decentral manner.
+Stefan Driessen is a Ph.D. Candidate at the [JADE Lab](https://jade-lab.github.io/) of the [Jheronimus Academy of Data Science](https://www.jads.nl/). His research interests include blockchain technology, data markets, data products and data meshes. On a daily basis, Stefan works on Data Engineering methods and techniques for sharing and exchanging data in a distributed and decentral manner.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
