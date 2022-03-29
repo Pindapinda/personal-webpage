@@ -9,6 +9,6 @@ title: Biography
 design:
   background:
     image: ""
-    color: "#000000"
+    color: ""
 ---
 This is a test body
