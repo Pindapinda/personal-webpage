@@ -15,4 +15,5 @@ design:
   background:
     color: "#0e390e"
     image: jads-skynet.jpg
+    image_darken: 0.8
 ---
