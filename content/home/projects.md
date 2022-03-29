@@ -14,4 +14,5 @@ design:
   flip_alt_rows: false
   background:
     color: "#0e390e"
+    image: jads-skynet.jpg
 ---
