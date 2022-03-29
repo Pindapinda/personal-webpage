@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://www.astrakode.tech/
 image:
-  filename: featured
+  filename: https://www.astrakode.tech/wp-content/uploads/2020/10/logosito_Tavola-disegno-1.png
   focal_point: Smart
   preview_only: false
 ---
