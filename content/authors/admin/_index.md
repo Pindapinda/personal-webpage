@@ -4,22 +4,25 @@ avatar_filename: pasfoto.png
 bio: My research interests include blockchain technology, data markets and data
   meshes.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Blockchain
+  - Data-Markets
+  - Data-Products
+  - Data-Mesh
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    label: Find ways to contact me
+    display:
+      header: false
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.nl/citations?user=7YZiTjMAAAAJ&hl=nl&oi=sra
+    label: My papers on google scholar
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Pindapinda/
+    label: My Github page
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
