@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Candidate at JADS
-avatar_filename: pasfoto.jpg
+avatar_filename: https://www.beardsleyzoo.org/uploads/1/2/4/2/124214186/245_orig.jpg
 bio: My research interests include blockchain technology, data markets and data
   meshes.
 interests:
