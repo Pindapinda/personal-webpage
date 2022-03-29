@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: jads-skynet.jpg
-    color: "#1d771d"
+    image: ""
+    color: "#000000"
 ---
 This is a test body
