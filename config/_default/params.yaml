@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Jade
+  theme_day: forest
   theme_night: Jade
   font: minimal
   font_size: L
