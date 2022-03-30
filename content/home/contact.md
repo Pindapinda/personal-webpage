@@ -5,39 +5,20 @@ weight: 130
 title: Contact
 subtitle: null
 content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
   autolink: true
-  office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
-  appointment_url: https://calendly.com
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
-    country: United States
-    country_code: US
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
+    room: MDB 2.10
+    street: Sint Janssingel 92
+    city: Nijmegen
+    region: Noord-Brabant
+    postcode: "5211 DA"
+    country: the Netherlands
+    country_code: NL
+  directions: Enter the building through the main entrance at the Sint-Janssingel. After the reception, proceed to the right and go up two floors when you see the stairs on your left. My room will be left when you exit the stairs.
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+    latitude: "51.6883"
+    longitude: "5.2984"
+  email: s.w.driessen{at}jads.nl
 widget_id: Contact
 design:
   columns: "2"
