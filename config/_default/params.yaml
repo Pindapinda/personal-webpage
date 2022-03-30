@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: Mr_Robot
+  theme_day: Jade
+  theme_night: Jade
   font: minimal
   font_size: L
 
