@@ -15,7 +15,7 @@ social:
     label: Find ways to contact me
     display:
       header: false
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.nl/citations?user=7YZiTjMAAAAJ&hl=nl&oi=sra
     label: My papers on google scholar
