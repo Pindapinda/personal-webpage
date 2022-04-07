@@ -1,5 +1,5 @@
 ---
-title: "Staking Assets Management on Blockchains: Vision and Roadmap"
+title: "Automated Test-Case Generation for Solidity Smart Contracts: the AGSolT Approach and its Evaluation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,28 +12,28 @@ authors:
 - "Equal contribution"
 - "Equal contribution" -->
 
-date: "2020-12-17T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-030-76352-7_1"
+date: "2021-02-17T00:00:00Z"
+doi: "https://doi.org/10.48550/arXiv.2102.08864"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-30T00:00:00Z"
+publishDate: "2021-10-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Service-Oriented Computing*
-publication_short: In *ICSOC*
+publication: In *arXiv*
+publication_short: In *arXiv*
 
-abstract: This paper introduces and explores the vision wherefore stakeholders and the process of staking ---that is, the idea of guaranteeing the quality of a process by risking valuable assets on their correct execution--- may run both on and off a blockchain while in the context of cloud-enabled services and processes. The emerging trend behind blockchain-oriented computing and the reliance on stakeholders therein make distilling and evaluating this vision a priority to deliver high-quality, sustainable services of the future. We identify key defining concepts of stakeholders and the staking process, using three very different staking scenarios as a base. Subsequently, we analyze the key challenges that these stakeholders face and propose the development of a framework that can help overcome these challenges. Finally, we give a road-map to steer systematic research stemming from the proposed vision, leveraging design science along with short-cyclic experimentation.
+abstract: Blockchain and smart contract technology are novel approaches to data and code management that facilitate trusted computing by allowing for development in a distributed and decentralized manner. Testing smart contracts comes with its own set of challenges which have not yet been fully identified and explored. Although existing tools can identify and discover known vulnerabilities and their interactions on the Ethereum blockchain through random search or symbolic execution, these tools generally do not produce test suites suitable for human oracles. In this paper, we present AGSOLT (Automated Generator of Solidity Test Suites). We demonstrate its efficiency by implementing two search algorithms to automatically generate test suites for stand-alone Solidity smart contracts, taking into account some of the blockchain-specific challenges. To test AGSOLT, we compared a random search algorithm and a genetic algorithm on a set of 36 real-world smart contracts. We found that AGSOLT is capable of achieving high branch coverage with both approaches and even discovered some errors in some of the most popular Solidity smart contracts on Github.
 
 # Summary. An optional shortened abstract.
-summary: A vision paper on how to effectively leverage staking as a way to make use of human expertise in blockchain environments.
+summary: A tool for automatically generating test suites that are optimised for branch coverage.
 
-tags: [Blockchain, Smart Contracts, Staking]
+tags: [Blockchain, Smart Contracts, Automated Testing]
 
 # Display this page in the Featured widget?
 featured: false
@@ -44,7 +44,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-76352-7_1'
-url_code: ''
+url_code: 'https://github.com/AGSolT/SolAT'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'The process of staking and the different steps involved in the necessary decisions of stakers. The main process execution is outside of the stakers control and is therefore not shown with a solid line around the box.'
+  caption: 'The flowchart of the AGSolT Tool'
   focal_point: ""
   preview_only: false
 
