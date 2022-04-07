@@ -4,10 +4,10 @@ avatar_filename: avatar.png
 bio: My research interests include blockchain technology, data markets and data
   meshes.
 interests:
-  - Blockchain
-  - Data-Markets
-  - Data-Products
-  - Data-Mesh
+  - Blockchain & Distributed Ledgers
+  - Data Markets
+  - Data Products
+  - Data Mesh
 social:
   - icon: envelope
     icon_pack: fas
