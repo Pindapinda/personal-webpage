@@ -1,13 +1,12 @@
 ---
-title: "Automated Test-Case Generation for Solidity Smart Contracts"
-subtitle: "The AGSolT Approach and its Evaluation"
+title: "Data Market Design"
+subtitle: "A Systematic Literature Reiew"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Dario Di Nucci
 - Geert Monsieur
 - Willem-Jan van den Heuvel
 
@@ -16,11 +15,11 @@ authors:
 - "Equal contribution"
 - "Equal contribution" -->
 
-date: "2021-02-17T00:00:00Z"
+date: "2022-03-22T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2102.08864"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-18T00:00:00Z"
+publishDate: "2022-03-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,15 +28,15 @@ publishDate: "2021-10-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *IEEE Access*
+publication_short: In *IEEE Access*
 
-abstract: Blockchain and smart contract technology are novel approaches to data and code management that facilitate trusted computing by allowing for development in a distributed and decentralized manner. Testing smart contracts comes with its own set of challenges which have not yet been fully identified and explored. Although existing tools can identify and discover known vulnerabilities and their interactions on the Ethereum blockchain through random search or symbolic execution, these tools generally do not produce test suites suitable for human oracles. In this paper, we present AGSOLT (Automated Generator of Solidity Test Suites). We demonstrate its efficiency by implementing two search algorithms to automatically generate test suites for stand-alone Solidity smart contracts, taking into account some of the blockchain-specific challenges. To test AGSOLT, we compared a random search algorithm and a genetic algorithm on a set of 36 real-world smart contracts. We found that AGSOLT is capable of achieving high branch coverage with both approaches and even discovered some errors in some of the most popular Solidity smart contracts on Github.
+abstract: Data markets are platforms that provide the necessary infrastructure and services to facilitate the exchange of data products between data providers and data consumers from different environments. Over the last decade, many data markets have sprung up, capitalising on the increased appreciation of the value of data and catering to different domains. In this work, we analyse the existing body of scientific literature on data markets to provide the first comprehensive overview of research into the design of data markets, regardless of scientific background or application domain. In doing so, we contribute to the field in several ways: 1) We present an overview of the state of the art in academic research on data markets and compare this with existing market trends to identify potential gaps. 2) We identify important application domains and contexts where data markets are being put into practice. 3) Finally, we provide taxonomies of both design problems for data markets and the solutions that are being investigated to address them. We conclude our work by identifying common types of data markets and corresponding best practices for designing them. The outcome of this work is intended to serve as a starting point for software architects and engineers looking to design data markets.
 
 # Summary. An optional shortened abstract.
-summary: A tool for automatically generating test suites that are optimised for branch coverage.
+summary: A Systematic Literature Review of Data Markets in different domains.
 
-tags: [Blockchain, Smart Contracts, Automated Testing]
+tags: [Data Market, Data Product, Literature Review]
 
 # Display this page in the Featured widget?
 featured: false
@@ -47,8 +46,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-76352-7_1'
-url_code: 'https://github.com/AGSolT/SolAT'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9739681'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -59,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'The flowchart of the AGSolT Tool'
+  caption: 'Taxonomy of the approaches for solving problems in data market design. Solutions are grouped and colour coded together with the problem they address with arrows indicating that a solution addresses a problem. White solutions address multiple problems, and the orange solutions grouped around "Trust" improve the effectiveness of all other solutions.'
   focal_point: ""
   preview_only: false
 
