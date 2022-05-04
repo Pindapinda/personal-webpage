@@ -12,9 +12,9 @@ authors:
 - Willem-Jan van den Heuvel
 
 # Author notes (optional)
-<!-- author_notes:
-- "Equal contribution"
-- "Equal contribution" -->
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2021-02-17T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2102.08864"

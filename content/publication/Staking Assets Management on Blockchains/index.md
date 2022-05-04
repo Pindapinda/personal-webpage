@@ -8,9 +8,9 @@ authors:
 - admin
 
 # Author notes (optional)
-<!-- author_notes:
-- "Equal contribution"
-- "Equal contribution" -->
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2020-12-17T00:00:00Z"
 doi: "https://doi.org/10.1007/978-3-030-76352-7_1"

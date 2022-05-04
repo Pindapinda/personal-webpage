@@ -11,9 +11,9 @@ authors:
 - Willem-Jan van den Heuvel
 
 # Author notes (optional)
-<!-- author_notes:
-- "Equal contribution"
-- "Equal contribution" -->
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2022-03-22T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2102.08864"
@@ -31,7 +31,7 @@ publication_types: ["2"]
 publication: In *IEEE Access*
 publication_short: In *IEEE Access*
 
-abstract: Data markets are platforms that provide the necessary infrastructure and services to facilitate the exchange of data products between data providers and data consumers from different environments. Over the last decade, many data markets have sprung up, capitalising on the increased appreciation of the value of data and catering to different domains. In this work, we analyse the existing body of scientific literature on data markets to provide the first comprehensive overview of research into the design of data markets, regardless of scientific background or application domain. In doing so, we contribute to the field in several ways: 1) We present an overview of the state of the art in academic research on data markets and compare this with existing market trends to identify potential gaps. 2) We identify important application domains and contexts where data markets are being put into practice. 3) Finally, we provide taxonomies of both design problems for data markets and the solutions that are being investigated to address them. We conclude our work by identifying common types of data markets and corresponding best practices for designing them. The outcome of this work is intended to serve as a starting point for software architects and engineers looking to design data markets.
+abstract: "Data markets are platforms that provide the necessary infrastructure and services to facilitate the exchange of data products between data providers and data consumers from different environments. Over the last decade, many data markets have sprung up, capitalising on the increased appreciation of the value of data and catering to different domains. In this work, we analyse the existing body of scientific literature on data markets to provide the first comprehensive overview of research into the design of data markets, regardless of scientific background or application domain. In doing so, we contribute to the field in several ways: 1) We present an overview of the state of the art in academic research on data markets and compare this with existing market trends to identify potential gaps. 2) We identify important application domains and contexts where data markets are being put into practice. 3) Finally, we provide taxonomies of both design problems for data markets and the solutions that are being investigated to address them. We conclude our work by identifying common types of data markets and corresponding best practices for designing them. The outcome of this work is intended to serve as a starting point for software architects and engineers looking to design data markets."
 
 # Summary. An optional shortened abstract.
 summary: A Systematic Literature Review of Data Markets in different domains.
