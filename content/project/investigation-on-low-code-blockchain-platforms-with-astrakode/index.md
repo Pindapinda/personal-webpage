@@ -4,6 +4,7 @@ date: 2021-03-15T07:00:47.813Z
 draft: false
 featured: false
 external_link: https://www.astrakode.tech/
+share: false
 image:
   filename: featured.png
   focal_point: Smart

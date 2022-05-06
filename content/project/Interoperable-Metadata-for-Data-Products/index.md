@@ -4,6 +4,7 @@ date: 2021-12-31T00:00:00.813Z
 draft: false
 featured: false
 external_link:
+share: false
 image:
   filename: featured.png
   focal_point: Smart
