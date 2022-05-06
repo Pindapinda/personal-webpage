@@ -9,7 +9,7 @@ content:
   page_type: project
 headless: true
 design:
-  columns: "2"
+  columns: "1"
   view: 5
   flip_alt_rows: false
   background:
