@@ -22,4 +22,7 @@ content:
 widget_id: Contact
 design:
   columns: "2"
+  background:
+    image: "jads_gebouw.jpg"
+    image_darken: 0.4
 ---

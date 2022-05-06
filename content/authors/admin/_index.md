@@ -17,12 +17,12 @@ social:
     display:
       header: false
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.nl/citations?user=7YZiTjMAAAAJ&hl=nl&oi=sra
     label: My papers on google scholar
-  - display:
+    display:
       header: false
-    link: https://orcid.org/0000-0002-0523-1436
+  - link: https://orcid.org/0000-0002-0523-1436
     icon_pack: ai
     icon: orcid
     label: My orcID

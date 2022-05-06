@@ -1,10 +1,10 @@
 ---
 widget: pages
 widget_id: Talks
-weight: 70
+weight: 20
 title: Recent & Upcoming Talks
 subtitle: null
-active: false
+active: true
 content:
   page_type: event
   count: 5
