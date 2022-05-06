@@ -28,7 +28,7 @@ social:
     label: My orcID
   - icon: github
     icon_pack: fab
-    link: https://github.com/Pindapinda/
+    link: https://github.com/Stefan-Driessen/
     label: My Github page
   - icon: linkedin
     icon_pack: fab
