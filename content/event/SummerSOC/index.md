@@ -13,7 +13,7 @@ address:
     country: Greece
     country_code: GR
 
-summary: On the 16th Symposium and Summer School On Service-Oriented Computing I will be an invited speaker on the topic of data market design
+summary: On the 16th Symposium and Summer School On Service-Oriented Computing I will be an invited speaker on the topic of data market design.
 abstract: "T.B.D."
 
 # Talk start and end times.
