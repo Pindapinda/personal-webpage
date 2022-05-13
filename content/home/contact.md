@@ -9,7 +9,7 @@ content:
   address:
     room: MDB 2.10
     street: Sint Janssingel 92
-    city: Nijmegen
+    city: "'s-Hertogenbosch"
     region: Noord-Brabant
     postcode: "5211 DA"
     country: the Netherlands
