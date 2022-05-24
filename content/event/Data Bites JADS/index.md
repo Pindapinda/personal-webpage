@@ -50,7 +50,7 @@ links:
   # url: "/publication/data-market-design/Data%20Market%20Design.pdf"
 url_code: ""
 url_pdf: "/publication/data-market-design/Data%20Market%20Design.pdf"
-url_slides: ""
+url_slides: "/talk/Data%20Bites%20JADS/DataMarketsLitReviewBites.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
