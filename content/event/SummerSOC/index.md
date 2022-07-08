@@ -13,8 +13,8 @@ address:
     country: Greece
     country_code: GR
 
-summary: On the 16th Symposium and Summer School On Service-Oriented Computing I will be an invited speaker on the topic of data market design.
-abstract: "T.B.D."
+summary: As invited speaker at the 16th Symposium and Summer School On Service-Oriented Computing I presented my research on decentral data exchanges and data markts in general.
+abstract: "Centralised, Monolithic Data Platforms struggle to scale with heterogeneous data sources and use cases. Decentral Data Exchanges are promising alternatives but their novelty makes them hard to investigate. We explored the existing literature on Data Markets, which are better understood and discuss how the lessons learned are relevant for decentral data exchanges such as data mesh, data space and enterprise data markets."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,6 @@ all_day: false
 
 authors:
 - admin
-- Willem-Jan van den Heuvel
 tags: [Data Market, Data Product, Data Mesh]
 
 # Is this a featured talk? (true/false)
@@ -40,12 +39,12 @@ image:
 
 links:
 # - icon: presentation_screen
-#   icon_pack: fas
-#   name: Powerpoint
+  # icon_pack: fas
+#   name: pdf
 #   url: "/talk/guest-lecture-how-to-build-a-blockchain-and-why-you-should-not/Blockchain Guest Lecture.pptx"
 #   # url: "/publication/data-market-design/Data%20Market%20Design.pdf"
 # url_code: ""
-# url_pdf: "/talk/guest-lecture-how-to-build-a-blockchain-and-why-you-should-not/Blockchain Guest Lecture.pdf"
+url_pdf: "/talk/SummerSOC/SummerSOC Data Markets.pdf"
 # url_slides: ""
 # url_video: ""
 
