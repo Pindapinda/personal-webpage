@@ -44,8 +44,8 @@ links:
 #   url: "/talk/guest-lecture-how-to-build-a-blockchain-and-why-you-should-not/Blockchain Guest Lecture.pptx"
 #   # url: "/publication/data-market-design/Data%20Market%20Design.pdf"
 # url_code: ""
-url_pdf: "/talk/data-market-design/SummerSOC Data Markets.pdf"
-# url_slides: ""
+# url_pdf: "/talk/data-market-design/SummerSoc Data Markets.pdf"
+url_slides: "/talk/data-market-design/SummerSoc Data Markets.pdf"
 # url_video: ""
 
 # Markdown Slides (optional).
