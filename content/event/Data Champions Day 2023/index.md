@@ -5,8 +5,8 @@ event: "KPN Data Champions Day"
 
 location: "KPN Headquarters Rotterdam"
 
-summary: "As an invited speaker at KPN's Data Champions day I presented a deep-dive into the concept of data products. Within spitting distance of the Erasmus bridge, we had interactive discussion on the different perspectives and definitions of data products. Throughout the presentation, we came to a better understanding of how to build, maintain and evaluate data products in decentralised data architectures such as data meshes and data markets.
-abstract: "As large organisations evolve towards distributed data architectures such as data meshes, data markets and data spaces, the concept of data products becomes ever more important. However, despite the increased attention it is proving difficult to reach a consensus on what a data product is (and is not). In this session, we try to get a better understanding of data products by diving into three different approaches for defining data products that are often seen in academic literature and industry practice. 
+summary: "As an invited speaker at KPN's Data Champions day I presented a deep-dive into the concept of data products. Within spitting distance of the Erasmus bridge, we had interactive discussion on the different perspectives and definitions of data products. Throughout the presentation, we came to a better understanding of how to build, maintain and evaluate data products in decentralised data architectures such as data meshes and data markets."
+abstract: "As large organisations evolve towards distributed data architectures such as data meshes, data markets and data spaces, the concept of data products becomes ever more important. However, despite the increased attention it is proving difficult to reach a consensus on what a data product is (and is not). In this session, we try to get a better understanding of data products by diving into three different approaches for defining data products that are often seen in academic literature and industry practice.
 
 The insights presented in this session are also currently being used for capturing relevant metadata in the KPN data catalog."
 
