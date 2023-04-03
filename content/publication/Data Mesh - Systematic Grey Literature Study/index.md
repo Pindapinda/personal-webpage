@@ -7,7 +7,7 @@ share: false
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Abel Goedgebuure
+- Abel Goedgebuure, Indika Kumara, Stefan Driessen, Willem-Jan van den Hevuvel, Geert Monsieur, Damian Tamburri, Dario Di Nucci
 # - admin
 
 # Author notes (optional)
@@ -25,20 +25,28 @@ publishDate: "2022-06-28T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Thesis
 publication_short: Thesis
 
-abstract: "To no surprise, it recently has become the norm for organizations to become data-driven. As the world continues to digitize, new opportunities arise that organizations are trying to capitalize on. Becoming data-driven allows organizations to use novel business models, develop new digital products, and make better decisions. However, becoming data-driven is not as easy as it sounds. Although there have been incredible innovations concerning the storing and processing of large amounts of data, organizations struggle with unlocking the true potential of their data.
-
-Traditional big data architectures, such as data warehouses or data lakes, consist of centralized technical solutions to store vast amounts of data. A centralized team provisions the data by building data pipelines that transform the data into the desired format and serve it to consumers all across the organization. This imposes several challenges to the organization. First of all, the capacity of this centralized team becomes the bottleneck of data sharing in the entire organization. Furthermore, since the centralized team is separated from the business domains providing and consuming the data, it becomes difficult to serve high-quality data in line with the consumer's needs. Moreover, this centralized team's many point-to-point data pipelines become challenging to oversee and manage as their number increases. This removes all agility from the organization resulting in a large and monolithic data landscape. Additionally, data becomes challenging to govern since there is no clear ownership of data.
-
-Data mesh, a novel data architecture paradigm, attempts to address these challenges. Data Mesh is a decentralised data architecture in which business domains themselves become responsible for serving their data as a product to the organization. These domains are supported by a self-serve infrastructure platform that abstracts away the complexities of managing the infrastructure necessary to serve data as a product. Moreover, it uses a federated computational governance model in which governance responsibilities are distributed to the business domains. However, there is a gap between industry practice and academic research. No academic literature is available yet, while the industry is already adopting the data mesh paradigm. This thesis addresses this gap by conducting a systematic gray literature review that defines data mesh and its requirements. Moreover, the design science research methodology for information systems is used to incorporate these findings into a reference architecture for data mesh. Additionally, the thesis delivers an instantiation of the architecture on a public cloud provider, and the design artifacts are demonstrated in an illustrative use case at ASML. All results are validated through expert interviews with senior stakeholders from the industry."
+abstract: "Data mesh is an emerging domain-driven decentralized data architecture that aims to minimize or avoid
+operational bottlenecks associated with centralized, monolithic data architectures in enterprises. The topic
+has picked the practitioners’ interest, and there is considerable gray literature on it. At the same time, we
+observe a lack of academic attempts at defining and building upon the concept. Hence, in this article, we
+aim to start from the foundations and characterize the data mesh architecture regarding its design principles,
+architectural components, capabilities, and organizational roles. We systematically collected, analyzed, and
+synthesized 114 industrial gray literature articles. The review provides insights into practitioners’ perspectives
+on the four key principles of data mesh: data as a product, domain ownership of data, self-serve data platform,
+and federated computational governance. Moreover, due to the comparability of data mesh and SOA (service-
+oriented architecture), we mapped the findings from the gray literature into the reference architectures from the
+SOA academic literature to create the reference architectures for describing three key dimensions of data mesh:
+organization of capabilities and roles, development, and runtime. Finally, we discuss open research issues in
+data mesh, partially based on the findings from the gray literature."
 
 # Summary. An optional shortened abstract.
-summary: A master thesis on data mesh based on gray literature. This thesis will be published as a set-alone paper in future.
+summary: This paper has been submitted to the ACM Suveys journal and is currently being reviewed.
 
 tags: [Data Mesh, Reference Architecture, Design Patterns, Literature Study]
 
@@ -62,7 +70,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'The content of the Thesis'
+  caption: 'A reference architecture for a data mesh at runtime.'
   focal_point: ""
   preview_only: false
 
