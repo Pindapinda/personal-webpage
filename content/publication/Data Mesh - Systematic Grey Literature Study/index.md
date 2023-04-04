@@ -1,13 +1,19 @@
 ---
-title: "Data Mesh"
-subtitle: "Systematic Gray Literature Study, Reference Architecture, and Cloud-based Instantiation at ASML"
+title: "Data Mesh: a Systematic Gray Literature Review"
+subtitle: "Data Mesh: a Systematic Gray Literature Review"
 share: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Abel Goedgebuure, Indika Kumara, Stefan Driessen, Willem-Jan van den Hevuvel, Geert Monsieur, Damian Tamburri, Dario Di Nucci
+- Abel Goedgebuure
+- Indika Kumara
+- admin 
+- Willem-Jan van den Hevuvel
+- Geert Monsieur
+- Damian Tamburri
+- Dario Di Nucci
 # - admin
 
 # Author notes (optional)
@@ -28,8 +34,8 @@ publishDate: "2022-06-28T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Thesis
-publication_short: Thesis
+publication: ArXiV
+publication_short: ArXiV
 
 abstract: "Data mesh is an emerging domain-driven decentralized data architecture that aims to minimize or avoid
 operational bottlenecks associated with centralized, monolithic data architectures in enterprises. The topic
@@ -46,7 +52,7 @@ organization of capabilities and roles, development, and runtime. Finally, we di
 data mesh, partially based on the findings from the gray literature."
 
 # Summary. An optional shortened abstract.
-summary: This paper has been submitted to the ACM Suveys journal and is currently being reviewed.
+summary: This paper is currently in preprint and can be found on ArXiV.
 
 tags: [Data Mesh, Reference Architecture, Design Patterns, Literature Study]
 
@@ -64,7 +70,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://arxiv.org/abs/2304.01062#'
 url_video: ''
 
 # Featured image
